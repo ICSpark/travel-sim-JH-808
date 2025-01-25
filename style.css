@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+p{
+    font-family: cursive;
+    color: black;
+    text-align: center;
+  }
+  body {
+
+    background: linear-gradient(to right, rgb(249, 217, 217), rgb(253, 234, 255));
+  
+  }
